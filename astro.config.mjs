@@ -7,7 +7,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://unyousan69.github.io',
-	base: '/musyoku29',
+	base: '/musyoku29/',
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
