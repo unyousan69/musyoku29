@@ -2,6 +2,7 @@
 title: '1週間断食実験を始めます｜ルールと開始時の体重'
 description: '1週間の断食実験を開始。きっかけや断食中のルール、開始時の体重・体脂肪率を記録します。'
 pubDate: 'Sep 02 2026'
+heroImage: '../../assets/fasting-hero.jpg'
 ---
 
 ## なぜ断食を始めようと思ったのか
